@@ -5,4 +5,9 @@ updated locally
 change from reote 3
 hello
 bug related issue
+<<<<<<< HEAD
 hello
+=======
+new feature
+
+>>>>>>> bug123
